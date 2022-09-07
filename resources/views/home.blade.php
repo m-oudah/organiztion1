@@ -221,7 +221,7 @@
                 <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">
                 {{__('trans.Videos')}}</div>
                 <h1 class="display-6 text-white mb-5">{{__('trans.video title')}}</h1>
-                <p class="text-white-50 mb-0">{{__('trans.video description')}}</p>
+                <p class="text-white mb-0">{{__('trans.video description')}}</p>
 
             </div>
         </div>
