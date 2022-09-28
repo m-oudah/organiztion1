@@ -219,7 +219,7 @@
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
 
                 <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">
-                {{__('trans.Videos')}}</div>
+                    {{__('trans.Videos')}}</div>
                 <h1 class="display-6 text-white mb-5">{{__('trans.video title')}}</h1>
                 <p class="text-white mb-0">{{__('trans.video description')}}</p>
 
@@ -389,6 +389,188 @@
 </div>
 <!-- Success Stories End -->
 
+
+
+
+
+<!-- Our Partners Start -->
+
+<div class="container" style="margin-bottom:80px;">
+    <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+        <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-2  mt-4">
+            {{ __('trans.Our Partners')}}</div>
+        <!-- <h1 class="display-6 mb-5">{{__('trans.Our Partners Sub')}}</h1> -->
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="0">
+                <!-- Carousel indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+                <!-- Wrapper for carousel items -->
+                <div class="carousel-inner">
+                    <div class="item carousel-item active">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <!-- <div class="thumb-content">
+                                        <h4>Apple iPad</h4>
+                                    </div> -->
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item carousel-item">
+                        <div class="row">
+
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item carousel-item">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="thumb-wrapper">
+                                    <span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+                                    <div class="img-box">
+                                        <img src="{{asset('assets/img/team-1.jpg')}}" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="thumb-content">
+                                        <!-- <h4>Apple iPad</h4>									 -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Carousel controls -->
+                <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Our Partners End -->
 
 
 

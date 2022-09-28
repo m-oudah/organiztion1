@@ -16,7 +16,7 @@
                 <li class="breadcrumb-item"><a class="text-white"
                         href="{{route('index',$lang)}}">{{__('trans.home')}}</a></li>
                 <li class="breadcrumb-item"> </li>
-                <li class="breadcrumb-item text-primary active" aria-current="page">{{__('trans.Contact')}}</li>
+                <li class="breadcrumb-item text-primary active" aria-current="page">{{__('trans.Complaints')}}</li>
             </ol>
         </nav>
     </div>

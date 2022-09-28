@@ -98,7 +98,7 @@ return [
 'Annual Reports'=>'Annual Reports',
 'Complaints'=>'Complaints',
 'Contribute'=>'Contribute',
-'Lets Meet With Our Ordinary Soldiers'=>'Lets Meet With Our Ordinary Soldiers',
+'Lets Meet With Our Ordinary Soldiers'=>'Our Organization Ordinary Soldiers',
 'Our programs'=>'Our programs',
 'Quick Links'=>'Quick Links',
 'Newsletter'=>'Newsletter',
@@ -113,15 +113,11 @@ return [
 'location'=>'Country, City, street no.',
 'Program Details'=>'Program Details',
 'Success Story Details'=>'Success Story Details',
+'Designed By'=>'Designed By',
+'set of our programs'=>'We offer different services and programs',
+'Our Partners'=>'Our Partners',
+'Our Partners Sub'=>'Our Success Partners',
 ''=>'',
-''=>'',
-
-
-
-
-'copyright' => 'جميع الحقوق محفوظة لدى مؤسسة ...   Ⓒ 2022',
-
-
 ''=>'',
 ''=>'',
 ''=>'',
